@@ -1,16 +1,17 @@
-POP REEL STUDIO — WEBSITE FILES (LOGO UPDATED)
+POP REAL STUDIO — WEBSITE FILES (LOGO FIXED)
 
-This website includes your emerald-green and blush-pink Pop Reel Studio logo in the header and footer, plus a browser tab icon. The site styling and interactions are included in index.html.
+This corrected package embeds the Pop Real Studio logo directly in index.html, so the header/footer logo and browser tab icon do not depend on a separate image path. The assets copy is also included as a backup.
 
-PREVIEW
-Open index.html in a browser to preview the website. Keep the assets folder beside index.html so the logo loads.
+UPLOAD TO GITHUB PAGES
+1. Extract this ZIP on your computer.
+2. In your GitHub repository, upload index.html and README.txt to the repository root. You may also upload the assets folder as a backup.
+3. If GitHub asks, replace the existing index.html.
+4. Commit changes.
+5. Open Settings → Pages. Choose Deploy from a branch, branch main, folder /(root), then Save.
+6. Wait a few minutes, then open the published site and refresh it.
 
-PUBLISH FOR FREE WITH GITHUB PAGES
-1. Sign in to your GitHub account.
-2. Create a new public repository (for example: pop-reel-studio-website).
-3. Upload the CONTENTS of this ZIP: index.html, README.txt, and the assets folder. Do not upload only the ZIP itself.
-4. In the repository, open Settings → Pages. Under Build and deployment, choose Deploy from a branch, select main and /(root), then Save.
-5. Wait a few minutes and open the website link shown in Settings → Pages.
+IMPORTANT
+Upload the extracted files, not the ZIP itself. index.html must be at the top level of the repository (not inside another folder).
 
 QUESTIONNAIRE NOTE
 The enquiry form prepares an email draft for the visitor to send. It does not automatically store submissions; visitors must press Send in their email app.
