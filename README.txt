@@ -1,20 +1,17 @@
-POP REAL STUDIO — WEBSITE FILES (LOGO FIXED)
+POP REAL STUDIO — NEW WEBSITE PACKAGE
 
-This corrected package embeds the Pop Real Studio logo directly in index.html, so the header/footer logo and browser tab icon do not depend on a separate image path. The assets copy is also included as a backup.
+This is a fresh updated package based on the existing website design. The mobile enquiry form no longer automatically redirects visitors when they press submit. Instead, it keeps the answers visible and offers an explicit Open email link plus a Copy answers backup, which is safer in Instagram's in-app browser.
+
+IMPORTANT ABOUT FORM DELIVERY
+This is a static website, so it cannot send an enquiry directly to your inbox without a connected form service. Visitors must still send the prepared email themselves. Instagram may block email links; the copy option helps prevent answers being lost.
 
 UPLOAD TO GITHUB PAGES
 1. Extract this ZIP on your computer.
-2. In your GitHub repository, upload index.html and README.txt to the repository root. You may also upload the assets folder as a backup.
-3. If GitHub asks, replace the existing index.html.
-4. Commit changes.
-5. Open Settings → Pages. Choose Deploy from a branch, branch main, folder /(root), then Save.
-6. Wait a few minutes, then open the published site and refresh it.
+2. Upload index.html and README.txt to the root of your GitHub repository (assets is included as a backup).
+3. Replace the old index.html when GitHub asks, then commit the changes.
+4. Wait for GitHub Pages to redeploy, then test the live website.
 
-IMPORTANT
-Upload the extracted files, not the ZIP itself. index.html must be at the top level of the repository (not inside another folder).
-
-QUESTIONNAIRE NOTE
-The enquiry form prepares an email draft for the visitor to send. It does not automatically store submissions; visitors must press Send in their email app.
+Do not upload the ZIP itself. Keep the existing live site until you are ready to replace it.
 
 Instagram: https://www.instagram.com/popreelstudio/
 Email: popreelstudio@gmail.com
